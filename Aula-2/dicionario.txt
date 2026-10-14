@@ -1,0 +1,22 @@
+// string = text
+// boolean =true / false
+// float = number with a decimal 'quebrados' com virgulas 
+// int = integer 
+
+
+// Variaveis  
+var idadeUsuario = 18 
+
+================================================================
+// exibe mensagem na tela 
+console.log("idadeUsuario: " + idadeUsuario) 
+// o simbolo "+" quando usado com texto a funcão dele é "concatenar" 
+
+=================================================================
+Operadores 
+
+//"=" é o operador de atribuição, ou seja, ele atribui o valor a variavel 
+// "==" é o operador de comparação, ou seja, ele compara o valor da variavel com outro valor
+// ">" é o operador de comparação, ou seja, ele compara se o valor da variavel é maior que outro valor
+// "<" é o operador de comparação, ou seja, ele compara se o valor da variavel é menor que outro valor 
+// ">=' é o operador de comparação, ou seja, ele compara se o valor da variavel é maior ou igual a outro valor"
