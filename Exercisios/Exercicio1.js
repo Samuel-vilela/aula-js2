@@ -42,10 +42,3 @@ if (numero3 > numero1) {
         console.log("O maior número é: " + numero3)
     }   
 }
-
-// var numero1 = 2 
-// var numero2 = 3 
-// var operação = adição
-// var resultado = 
-
-if (numero + )
