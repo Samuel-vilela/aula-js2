@@ -4,7 +4,7 @@
 
      var numero2 = 5;
 
-     var operacao = "subtração"; // Pode ser "adição", "subtração", "multiplicação" ou "divisão"
+     var operacao = "subtração"; 
 
      var resultado;
 

@@ -1,7 +1,9 @@
 // Escreva um programa que converta uma temperatura de Celsius para Fahrenheit para celsius e vice-versa.
 
 var temperatura = 80
-var tipoTemperatura = "" // C = Celsius, F = Fahrenheit        
+
+var tipoTemperatura = "" 
+
 var temperaturaConvertida = 0 
 
 if (tipoTemperatura == "C") {
